@@ -64,7 +64,4 @@ String url = "https://v6.exchangerate-api.com/v6/<YOUR_API_KEY>/pair/" + monedaB
 - **MenuConversor:** Clase que gestiona el menú interactivo y la lógica de selección.
 - **Main:** Clase principal que inicializa y ejecuta el programa.
 
-## Autor
-
-Creado por Nicolas Camacho.
 
