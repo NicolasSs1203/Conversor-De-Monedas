@@ -1,6 +1,11 @@
+
 # Conversor de Monedas
 
 Este proyecto es una aplicación sencilla en Java que permite convertir montos entre diferentes monedas utilizando una API REST para obtener las tasas de cambio actualizadas.
+
+<p align="center">
+  <img src="Badge-Conversor.png" alt="Insignia de Oracle">
+</p>
 
 ## Características
 
